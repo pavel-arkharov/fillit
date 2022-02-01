@@ -3,11 +3,11 @@ Project is part of 42 curriculum made during my studies in Hive Helsinki school 
 
 Project aims at basic algorithmics. Searching for best possible solution among many options. 
 
-###Input
+### Input
 
 Program takes a file as parameter, which contains a list of Tetriminos, or 4x4 text block-pieces consisting of four (tetro) filled-squares. 
 
-![Screen Shot 2022-02-01 at 19.28.24](/Volumes/SANKTPETERB/SCSH/Screen Shot 2022-02-01 at 19.28.24.png)
+![Screen Shot 2022-02-01 at 19 28 24](https://user-images.githubusercontent.com/7693793/152025426-c9457221-23a4-40e5-828d-82abbf72a87e.png)
 
 Validity of input has to be checked, rules for valid tetriminos are following: 
 
@@ -22,7 +22,8 @@ Validity of input has to be checked, rules for valid tetriminos are following:
 
 Here's some examples of non-valid input: 
 
-![Screen Shot 2022-02-01 at 19.29.19](/Volumes/SANKTPETERB/SCSH/Screen Shot 2022-02-01 at 19.29.19.png)
+![Screen Shot 2022-02-01 at 19 29 19](https://user-images.githubusercontent.com/7693793/152025392-48495296-a727-4593-8275-de9cc58011b3.png)
+
 
 ### Aim
 
@@ -30,11 +31,12 @@ Goal of the program to find the smallest possible square that will fit all the t
 
 Example: 
 
-![Screen Shot 2022-02-01 at 19.51.52](/Volumes/SANKTPETERB/SCSH/Screen Shot 2022-02-01 at 19.51.52.png)
+![Screen Shot 2022-02-01 at 19 51 52](https://user-images.githubusercontent.com/7693793/152025342-0baa0ef8-3214-4c36-9c57-d5c9256cc8df.png)
 
 Out of all possible solutions the program must select the one that places tetriminos to the most upper-left position. 
 
-[Imgur](https://imgur.com/JyvCvg0)
+![Screen Shot 2022-02-01 at 19 55 57](https://user-images.githubusercontent.com/7693793/152025291-7a9716de-b811-4e4b-96a9-e3134a3e2006.png)
+
 
 According to this rule, the correct answer is a). 
 
