@@ -34,7 +34,7 @@ Example:
 
 Out of all possible solutions the program must select the one that places tetriminos to the most upper-left position. 
 
-![Screen Shot 2022-02-01 at 19.55.57](/Volumes/SANKTPETERB/SCSH/Screen Shot 2022-02-01 at 19.55.57.png)
+[Imgur](https://imgur.com/JyvCvg0)
 
 According to this rule, the correct answer is a). 
 
